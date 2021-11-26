@@ -1,0 +1,10 @@
+C:\Draw Project\Draw\Draw.DTO\bin\Debug\netcoreapp3.1\Draw.DTO.deps.json
+C:\Draw Project\Draw\Draw.DTO\bin\Debug\netcoreapp3.1\Draw.DTO.dll
+C:\Draw Project\Draw\Draw.DTO\bin\Debug\netcoreapp3.1\Draw.DTO.pdb
+C:\Draw Project\Draw\Draw.DTO\obj\Debug\netcoreapp3.1\Draw.DTO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Draw Project\Draw\Draw.DTO\obj\Debug\netcoreapp3.1\Draw.DTO.AssemblyInfoInputs.cache
+C:\Draw Project\Draw\Draw.DTO\obj\Debug\netcoreapp3.1\Draw.DTO.AssemblyInfo.cs
+C:\Draw Project\Draw\Draw.DTO\obj\Debug\netcoreapp3.1\Draw.DTO.csproj.CoreCompileInputs.cache
+C:\Draw Project\Draw\Draw.DTO\obj\Debug\netcoreapp3.1\Draw.DTO.dll
+C:\Draw Project\Draw\Draw.DTO\obj\Debug\netcoreapp3.1\Draw.DTO.pdb
+C:\Draw Project\Draw\Draw.DTO\obj\Debug\netcoreapp3.1\Draw.DTO.csproj.AssemblyReference.cache

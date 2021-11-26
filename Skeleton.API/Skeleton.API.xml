@@ -1,0 +1,57 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Skeleton.API</name>
+    </assembly>
+    <members>
+        <member name="T:Skeleton.API.Controllers.AuthController">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="M:Skeleton.API.Controllers.AuthController.#ctor(Skeleton.Services.AuthService)">
+            <summary>
+            CTOR
+            </summary>
+            <param name="authenticationService"></param>
+        </member>
+        <member name="M:Skeleton.API.Controllers.AuthController.CreateToken(Skeleton.DTO.LoginDto)">
+            <summary>
+            User Login method.
+            </summary>
+            <param name="loginDto"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Skeleton.API.Controllers.AuthController.CreateTokenByClient(Skeleton.DTO.ClientLoginDto)">
+            <summary>
+            Creates token by client credentials
+            </summary>
+            <param name="clientLoginDto"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Skeleton.API.Controllers.AuthController.RevokeRefreshToken(Skeleton.DTO.RefreshTokenDto)">
+            <summary>
+            Removes refresh token
+            </summary>
+            <param name="refreshTokenDto"></param>
+            <remarks>Use when user set 'rememberme' value to false </remarks>
+            <returns></returns>
+        </member>
+        <member name="M:Skeleton.API.Controllers.AuthController.CreateTokenByRefreshToken(Skeleton.DTO.RefreshTokenDto)">
+            <summary>
+            Creates token by refresh token
+            </summary>
+            <param name="refreshTokenDto"></param>
+            <remarks> Used for quick login when the user has the remember me feature correct</remarks>
+            <returns></returns>
+        </member>
+        <member name="M:Skeleton.API.Controllers.AuthController.Logout">
+            <summary>
+            Logout method 
+            </summary>
+            <remarks>
+            sends information to server</remarks>
+            <returns></returns>
+        </member>
+    </members>
+</doc>

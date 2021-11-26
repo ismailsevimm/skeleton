@@ -1,0 +1,15 @@
+C:\Draw Project\Draw\Draw.Data\bin\Debug\netcoreapp3.1\Draw.Data.deps.json
+C:\Draw Project\Draw\Draw.Data\bin\Debug\netcoreapp3.1\Draw.Data.dll
+C:\Draw Project\Draw\Draw.Data\bin\Debug\netcoreapp3.1\Draw.Data.pdb
+C:\Draw Project\Draw\Draw.Data\bin\Debug\netcoreapp3.1\Draw.Core.dll
+C:\Draw Project\Draw\Draw.Data\bin\Debug\netcoreapp3.1\Draw.Models.dll
+C:\Draw Project\Draw\Draw.Data\bin\Debug\netcoreapp3.1\Draw.Models.pdb
+C:\Draw Project\Draw\Draw.Data\bin\Debug\netcoreapp3.1\Draw.Core.pdb
+C:\Draw Project\Draw\Draw.Data\obj\Debug\netcoreapp3.1\Draw.Data.csproj.AssemblyReference.cache
+C:\Draw Project\Draw\Draw.Data\obj\Debug\netcoreapp3.1\Draw.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Draw Project\Draw\Draw.Data\obj\Debug\netcoreapp3.1\Draw.Data.AssemblyInfoInputs.cache
+C:\Draw Project\Draw\Draw.Data\obj\Debug\netcoreapp3.1\Draw.Data.AssemblyInfo.cs
+C:\Draw Project\Draw\Draw.Data\obj\Debug\netcoreapp3.1\Draw.Data.csproj.CoreCompileInputs.cache
+C:\Draw Project\Draw\Draw.Data\obj\Debug\netcoreapp3.1\Draw.Data.csproj.CopyComplete
+C:\Draw Project\Draw\Draw.Data\obj\Debug\netcoreapp3.1\Draw.Data.dll
+C:\Draw Project\Draw\Draw.Data\obj\Debug\netcoreapp3.1\Draw.Data.pdb

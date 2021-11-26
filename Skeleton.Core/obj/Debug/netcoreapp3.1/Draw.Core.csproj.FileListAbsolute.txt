@@ -1,0 +1,10 @@
+C:\Draw Project\Draw\Draw.Core\bin\Debug\netcoreapp3.1\Draw.Core.deps.json
+C:\Draw Project\Draw\Draw.Core\bin\Debug\netcoreapp3.1\Draw.Core.dll
+C:\Draw Project\Draw\Draw.Core\bin\Debug\netcoreapp3.1\Draw.Core.pdb
+C:\Draw Project\Draw\Draw.Core\obj\Debug\netcoreapp3.1\Draw.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Draw Project\Draw\Draw.Core\obj\Debug\netcoreapp3.1\Draw.Core.AssemblyInfoInputs.cache
+C:\Draw Project\Draw\Draw.Core\obj\Debug\netcoreapp3.1\Draw.Core.AssemblyInfo.cs
+C:\Draw Project\Draw\Draw.Core\obj\Debug\netcoreapp3.1\Draw.Core.csproj.CoreCompileInputs.cache
+C:\Draw Project\Draw\Draw.Core\obj\Debug\netcoreapp3.1\Draw.Core.dll
+C:\Draw Project\Draw\Draw.Core\obj\Debug\netcoreapp3.1\Draw.Core.pdb
+C:\Draw Project\Draw\Draw.Core\obj\Debug\netcoreapp3.1\Draw.Core.csproj.AssemblyReference.cache

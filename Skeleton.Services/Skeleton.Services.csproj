@@ -1,0 +1,18 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="AutoMapper" Version="10.1.1" />
+    <PackageReference Include="Microsoft.AspNetCore.Authentication.JwtBearer" Version="3.1.21" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Skeleton.Core\Skeleton.Core.csproj" />
+    <ProjectReference Include="..\Skeleton.Data\Skeleton.Data.csproj" />
+    <ProjectReference Include="..\Skeleton.DTO\Skeleton.DTO.csproj" />
+  </ItemGroup>
+
+</Project>

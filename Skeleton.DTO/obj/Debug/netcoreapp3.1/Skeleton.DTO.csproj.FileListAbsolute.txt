@@ -1,0 +1,19 @@
+C:\Draw Project\Draw\Draw.DTO\bin\Debug\netcoreapp3.1\Skeleton.DTO.deps.json
+C:\Draw Project\Draw\Draw.DTO\bin\Debug\netcoreapp3.1\Skeleton.DTO.dll
+C:\Draw Project\Draw\Draw.DTO\bin\Debug\netcoreapp3.1\Skeleton.DTO.pdb
+C:\Draw Project\Draw\Draw.DTO\obj\Debug\netcoreapp3.1\Skeleton.DTO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Draw Project\Draw\Draw.DTO\obj\Debug\netcoreapp3.1\Skeleton.DTO.AssemblyInfoInputs.cache
+C:\Draw Project\Draw\Draw.DTO\obj\Debug\netcoreapp3.1\Skeleton.DTO.AssemblyInfo.cs
+C:\Draw Project\Draw\Draw.DTO\obj\Debug\netcoreapp3.1\Skeleton.DTO.csproj.CoreCompileInputs.cache
+C:\Draw Project\Draw\Draw.DTO\obj\Debug\netcoreapp3.1\Skeleton.DTO.dll
+C:\Draw Project\Draw\Draw.DTO\obj\Debug\netcoreapp3.1\Skeleton.DTO.pdb
+C:\Skeleton dotNet Core Project\Skeleton\Skeleton.DTO\bin\Debug\netcoreapp3.1\Skeleton.DTO.deps.json
+C:\Skeleton dotNet Core Project\Skeleton\Skeleton.DTO\bin\Debug\netcoreapp3.1\Skeleton.DTO.dll
+C:\Skeleton dotNet Core Project\Skeleton\Skeleton.DTO\bin\Debug\netcoreapp3.1\Skeleton.DTO.pdb
+C:\Skeleton dotNet Core Project\Skeleton\Skeleton.DTO\obj\Debug\netcoreapp3.1\Skeleton.DTO.csproj.AssemblyReference.cache
+C:\Skeleton dotNet Core Project\Skeleton\Skeleton.DTO\obj\Debug\netcoreapp3.1\Skeleton.DTO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Skeleton dotNet Core Project\Skeleton\Skeleton.DTO\obj\Debug\netcoreapp3.1\Skeleton.DTO.AssemblyInfoInputs.cache
+C:\Skeleton dotNet Core Project\Skeleton\Skeleton.DTO\obj\Debug\netcoreapp3.1\Skeleton.DTO.AssemblyInfo.cs
+C:\Skeleton dotNet Core Project\Skeleton\Skeleton.DTO\obj\Debug\netcoreapp3.1\Skeleton.DTO.csproj.CoreCompileInputs.cache
+C:\Skeleton dotNet Core Project\Skeleton\Skeleton.DTO\obj\Debug\netcoreapp3.1\Skeleton.DTO.dll
+C:\Skeleton dotNet Core Project\Skeleton\Skeleton.DTO\obj\Debug\netcoreapp3.1\Skeleton.DTO.pdb

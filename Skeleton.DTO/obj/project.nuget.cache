@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "sb2PG+cpHKxF1Cjuheg9RGMgAhbBg+NyqRpwUjBLh75TOBq6gcOeez+VjX0D5XX0yTwWe7idtUut6XPsa10x6w==",
+  "success": true,
+  "projectFilePath": "C:\\Skeleton dotNet Core Project\\Skeleton\\Skeleton.DTO\\Skeleton.DTO.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ismail.sevim\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\ismail.sevim\\.nuget\\packages\\swashbuckle.aspnetcore.annotations\\6.2.3\\swashbuckle.aspnetcore.annotations.6.2.3.nupkg.sha512",
+    "C:\\Users\\ismail.sevim\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.2.3\\swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "C:\\Users\\ismail.sevim\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.2.3\\swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}
