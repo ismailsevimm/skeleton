@@ -39,8 +39,8 @@ I would be happy if you would send a pull request by making a contribution.
 
 Contributors names and contact info
 
-* Ýsmail Sevim - [@ismailsevimm](https://github.com/ismailsevimm)
-* Sercan Ýþlerel - [@sercanislerel](https://github.com/sercanislerel)
+* Ismail Sevim - [@ismailsevimm](https://github.com/ismailsevimm)
+* Sercan Islerel - [@sercanislerel](https://github.com/sercanislerel)
 
 
 ## Version History
@@ -54,4 +54,4 @@ This project is licensed under the [MIT] License - see the LICENSE.md file for d
 
 ## Acknowledgments
 
-* Sercan Ýþlerel - [@sercanislerel](https://github.com/sercanislerel)
+* Sercan Islerel - [@sercanislerel](https://github.com/sercanislerel)
