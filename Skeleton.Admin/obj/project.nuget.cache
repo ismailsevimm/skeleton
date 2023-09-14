@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "l21v/6qNXkTqSKa2zxr8DIZ/fL6gb9dMGwaeQG7vDWUCgWcP8QMmOOQTh5WiQtdFz6AG9ekgAMRrcKSsUP00pw==",
+  "dgSpecHash": "qfNoiOHHZuU/KD706LI1mCSwzbuS6E0f7cXr6tlhecqdwMpIqvx+RtbzqwiNMoiCuwB98gAs2vMRz1ubPab0LQ==",
   "success": true,
-  "projectFilePath": "C:\\Skeleton dotNet Core Project\\Skeleton\\Skeleton.Admin\\Skeleton.Admin.csproj",
+  "projectFilePath": "C:\\Users\\ismai\\Source\\Repos\\skeleton\\Skeleton.Admin\\Skeleton.Admin.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

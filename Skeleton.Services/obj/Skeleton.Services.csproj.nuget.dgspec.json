@@ -1,36 +1,37 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Skeleton dotNet Core Project\\Skeleton\\Skeleton.Services\\Skeleton.Services.csproj": {}
+    "C:\\Users\\ismai\\Source\\Repos\\skeleton\\Skeleton.Services\\Skeleton.Services.csproj": {}
   },
   "projects": {
-    "C:\\Skeleton dotNet Core Project\\Skeleton\\Skeleton.Core\\Skeleton.Core.csproj": {
+    "C:\\Users\\ismai\\Source\\Repos\\skeleton\\Skeleton.Core\\Skeleton.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Skeleton dotNet Core Project\\Skeleton\\Skeleton.Core\\Skeleton.Core.csproj",
+        "projectUniqueName": "C:\\Users\\ismai\\Source\\Repos\\skeleton\\Skeleton.Core\\Skeleton.Core.csproj",
         "projectName": "Skeleton.Core",
-        "projectPath": "C:\\Skeleton dotNet Core Project\\Skeleton\\Skeleton.Core\\Skeleton.Core.csproj",
-        "packagesPath": "C:\\Users\\ismail.sevim\\.nuget\\packages\\",
-        "outputPath": "C:\\Skeleton dotNet Core Project\\Skeleton\\Skeleton.Core\\obj\\",
+        "projectPath": "C:\\Users\\ismai\\Source\\Repos\\skeleton\\Skeleton.Core\\Skeleton.Core.csproj",
+        "packagesPath": "C:\\Users\\ismai\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ismai\\Source\\Repos\\skeleton\\Skeleton.Core\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\ismail.sevim\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+          "C:\\Users\\ismai\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
-          "netcoreapp3.1"
+          "net7.0"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "netcoreapp3.1": {
-            "targetAlias": "netcoreapp3.1",
+          "net7.0": {
+            "targetAlias": "net7.0",
             "projectReferences": {}
           }
         },
@@ -41,8 +42,8 @@
         }
       },
       "frameworks": {
-        "netcoreapp3.1": {
-          "targetAlias": "netcoreapp3.1",
+        "net7.0": {
+          "targetAlias": "net7.0",
           "dependencies": {
             "Microsoft.AspNetCore.Diagnostics": {
               "target": "Package",
@@ -67,7 +68,8 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -76,40 +78,41 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.403\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Skeleton dotNet Core Project\\Skeleton\\Skeleton.Data\\Skeleton.Data.csproj": {
+    "C:\\Users\\ismai\\Source\\Repos\\skeleton\\Skeleton.Data\\Skeleton.Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Skeleton dotNet Core Project\\Skeleton\\Skeleton.Data\\Skeleton.Data.csproj",
+        "projectUniqueName": "C:\\Users\\ismai\\Source\\Repos\\skeleton\\Skeleton.Data\\Skeleton.Data.csproj",
         "projectName": "Skeleton.Data",
-        "projectPath": "C:\\Skeleton dotNet Core Project\\Skeleton\\Skeleton.Data\\Skeleton.Data.csproj",
-        "packagesPath": "C:\\Users\\ismail.sevim\\.nuget\\packages\\",
-        "outputPath": "C:\\Skeleton dotNet Core Project\\Skeleton\\Skeleton.Data\\obj\\",
+        "projectPath": "C:\\Users\\ismai\\Source\\Repos\\skeleton\\Skeleton.Data\\Skeleton.Data.csproj",
+        "packagesPath": "C:\\Users\\ismai\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ismai\\Source\\Repos\\skeleton\\Skeleton.Data\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\ismail.sevim\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+          "C:\\Users\\ismai\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
-          "netcoreapp3.1"
+          "net7.0"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "netcoreapp3.1": {
-            "targetAlias": "netcoreapp3.1",
+          "net7.0": {
+            "targetAlias": "net7.0",
             "projectReferences": {
-              "C:\\Skeleton dotNet Core Project\\Skeleton\\Skeleton.Models\\Skeleton.Models.csproj": {
-                "projectPath": "C:\\Skeleton dotNet Core Project\\Skeleton\\Skeleton.Models\\Skeleton.Models.csproj"
+              "C:\\Users\\ismai\\Source\\Repos\\skeleton\\Skeleton.Models\\Skeleton.Models.csproj": {
+                "projectPath": "C:\\Users\\ismai\\Source\\Repos\\skeleton\\Skeleton.Models\\Skeleton.Models.csproj"
               }
             }
           }
@@ -121,8 +124,8 @@
         }
       },
       "frameworks": {
-        "netcoreapp3.1": {
-          "targetAlias": "netcoreapp3.1",
+        "net7.0": {
+          "targetAlias": "net7.0",
           "dependencies": {
             "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
               "target": "Package",
@@ -143,7 +146,8 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -152,37 +156,38 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.403\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Skeleton dotNet Core Project\\Skeleton\\Skeleton.DTO\\Skeleton.DTO.csproj": {
+    "C:\\Users\\ismai\\Source\\Repos\\skeleton\\Skeleton.DTO\\Skeleton.DTO.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Skeleton dotNet Core Project\\Skeleton\\Skeleton.DTO\\Skeleton.DTO.csproj",
+        "projectUniqueName": "C:\\Users\\ismai\\Source\\Repos\\skeleton\\Skeleton.DTO\\Skeleton.DTO.csproj",
         "projectName": "Skeleton.DTO",
-        "projectPath": "C:\\Skeleton dotNet Core Project\\Skeleton\\Skeleton.DTO\\Skeleton.DTO.csproj",
-        "packagesPath": "C:\\Users\\ismail.sevim\\.nuget\\packages\\",
-        "outputPath": "C:\\Skeleton dotNet Core Project\\Skeleton\\Skeleton.DTO\\obj\\",
+        "projectPath": "C:\\Users\\ismai\\Source\\Repos\\skeleton\\Skeleton.DTO\\Skeleton.DTO.csproj",
+        "packagesPath": "C:\\Users\\ismai\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ismai\\Source\\Repos\\skeleton\\Skeleton.DTO\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\ismail.sevim\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+          "C:\\Users\\ismai\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
-          "netcoreapp3.1"
+          "net7.0"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "netcoreapp3.1": {
-            "targetAlias": "netcoreapp3.1",
+          "net7.0": {
+            "targetAlias": "net7.0",
             "projectReferences": {}
           }
         },
@@ -193,8 +198,8 @@
         }
       },
       "frameworks": {
-        "netcoreapp3.1": {
-          "targetAlias": "netcoreapp3.1",
+        "net7.0": {
+          "targetAlias": "net7.0",
           "dependencies": {
             "Swashbuckle.AspNetCore.Annotations": {
               "target": "Package",
@@ -207,7 +212,8 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -216,40 +222,41 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.403\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Skeleton dotNet Core Project\\Skeleton\\Skeleton.Models\\Skeleton.Models.csproj": {
+    "C:\\Users\\ismai\\Source\\Repos\\skeleton\\Skeleton.Models\\Skeleton.Models.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Skeleton dotNet Core Project\\Skeleton\\Skeleton.Models\\Skeleton.Models.csproj",
+        "projectUniqueName": "C:\\Users\\ismai\\Source\\Repos\\skeleton\\Skeleton.Models\\Skeleton.Models.csproj",
         "projectName": "Skeleton.Models",
-        "projectPath": "C:\\Skeleton dotNet Core Project\\Skeleton\\Skeleton.Models\\Skeleton.Models.csproj",
-        "packagesPath": "C:\\Users\\ismail.sevim\\.nuget\\packages\\",
-        "outputPath": "C:\\Skeleton dotNet Core Project\\Skeleton\\Skeleton.Models\\obj\\",
+        "projectPath": "C:\\Users\\ismai\\Source\\Repos\\skeleton\\Skeleton.Models\\Skeleton.Models.csproj",
+        "packagesPath": "C:\\Users\\ismai\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ismai\\Source\\Repos\\skeleton\\Skeleton.Models\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\ismail.sevim\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+          "C:\\Users\\ismai\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
-          "netcoreapp3.1"
+          "net7.0"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "netcoreapp3.1": {
-            "targetAlias": "netcoreapp3.1",
+          "net7.0": {
+            "targetAlias": "net7.0",
             "projectReferences": {
-              "C:\\Skeleton dotNet Core Project\\Skeleton\\Skeleton.Core\\Skeleton.Core.csproj": {
-                "projectPath": "C:\\Skeleton dotNet Core Project\\Skeleton\\Skeleton.Core\\Skeleton.Core.csproj"
+              "C:\\Users\\ismai\\Source\\Repos\\skeleton\\Skeleton.Core\\Skeleton.Core.csproj": {
+                "projectPath": "C:\\Users\\ismai\\Source\\Repos\\skeleton\\Skeleton.Core\\Skeleton.Core.csproj"
               }
             }
           }
@@ -261,8 +268,8 @@
         }
       },
       "frameworks": {
-        "netcoreapp3.1": {
-          "targetAlias": "netcoreapp3.1",
+        "net7.0": {
+          "targetAlias": "net7.0",
           "dependencies": {
             "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
               "target": "Package",
@@ -275,7 +282,8 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -284,46 +292,47 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.403\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Skeleton dotNet Core Project\\Skeleton\\Skeleton.Services\\Skeleton.Services.csproj": {
+    "C:\\Users\\ismai\\Source\\Repos\\skeleton\\Skeleton.Services\\Skeleton.Services.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Skeleton dotNet Core Project\\Skeleton\\Skeleton.Services\\Skeleton.Services.csproj",
+        "projectUniqueName": "C:\\Users\\ismai\\Source\\Repos\\skeleton\\Skeleton.Services\\Skeleton.Services.csproj",
         "projectName": "Skeleton.Services",
-        "projectPath": "C:\\Skeleton dotNet Core Project\\Skeleton\\Skeleton.Services\\Skeleton.Services.csproj",
-        "packagesPath": "C:\\Users\\ismail.sevim\\.nuget\\packages\\",
-        "outputPath": "C:\\Skeleton dotNet Core Project\\Skeleton\\Skeleton.Services\\obj\\",
+        "projectPath": "C:\\Users\\ismai\\Source\\Repos\\skeleton\\Skeleton.Services\\Skeleton.Services.csproj",
+        "packagesPath": "C:\\Users\\ismai\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ismai\\Source\\Repos\\skeleton\\Skeleton.Services\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\ismail.sevim\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+          "C:\\Users\\ismai\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
-          "netcoreapp3.1"
+          "net7.0"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "netcoreapp3.1": {
-            "targetAlias": "netcoreapp3.1",
+          "net7.0": {
+            "targetAlias": "net7.0",
             "projectReferences": {
-              "C:\\Skeleton dotNet Core Project\\Skeleton\\Skeleton.Core\\Skeleton.Core.csproj": {
-                "projectPath": "C:\\Skeleton dotNet Core Project\\Skeleton\\Skeleton.Core\\Skeleton.Core.csproj"
+              "C:\\Users\\ismai\\Source\\Repos\\skeleton\\Skeleton.Core\\Skeleton.Core.csproj": {
+                "projectPath": "C:\\Users\\ismai\\Source\\Repos\\skeleton\\Skeleton.Core\\Skeleton.Core.csproj"
               },
-              "C:\\Skeleton dotNet Core Project\\Skeleton\\Skeleton.Data\\Skeleton.Data.csproj": {
-                "projectPath": "C:\\Skeleton dotNet Core Project\\Skeleton\\Skeleton.Data\\Skeleton.Data.csproj"
+              "C:\\Users\\ismai\\Source\\Repos\\skeleton\\Skeleton.Data\\Skeleton.Data.csproj": {
+                "projectPath": "C:\\Users\\ismai\\Source\\Repos\\skeleton\\Skeleton.Data\\Skeleton.Data.csproj"
               },
-              "C:\\Skeleton dotNet Core Project\\Skeleton\\Skeleton.DTO\\Skeleton.DTO.csproj": {
-                "projectPath": "C:\\Skeleton dotNet Core Project\\Skeleton\\Skeleton.DTO\\Skeleton.DTO.csproj"
+              "C:\\Users\\ismai\\Source\\Repos\\skeleton\\Skeleton.DTO\\Skeleton.DTO.csproj": {
+                "projectPath": "C:\\Users\\ismai\\Source\\Repos\\skeleton\\Skeleton.DTO\\Skeleton.DTO.csproj"
               }
             }
           }
@@ -335,8 +344,8 @@
         }
       },
       "frameworks": {
-        "netcoreapp3.1": {
-          "targetAlias": "netcoreapp3.1",
+        "net7.0": {
+          "targetAlias": "net7.0",
           "dependencies": {
             "AutoMapper": {
               "target": "Package",
@@ -353,7 +362,8 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -362,7 +372,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.403\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
         }
       }
     }
